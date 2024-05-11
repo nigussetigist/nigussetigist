@@ -2,7 +2,7 @@
 I am Tigist Nigusse/
 daddy's girl
 **nigussetigist/nigussetigist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-Here are some ideas to get you started:
+Here are some ideas to get you started: be bositive
 
 - 🔭 I’m currently working on MOHA soft drinks company
 - 🌱 I’m currently learning data science and AI 
